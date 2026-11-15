@@ -60,7 +60,6 @@ Diagnostics for audio routing, signal levels and errors.
 📱 Compatibility & Project Status​
 Android 14 and later · ARM64 architecture.
 
-**https://xdaforums.com/t/app-no-root-huawei-histen-port-of-huawei-original-audio-engines-to-android.4808726/**
 
 Primary testing is being conducted on the Samsung Galaxy S25 Ultra running Android 17.
 
